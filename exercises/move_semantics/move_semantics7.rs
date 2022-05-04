@@ -3,8 +3,6 @@
 // You can't declare new variable
 // Use `rustlings hint move_semantics7` for hints
 
-// I AM NOT DONE
-
 fn main() {
     let mut v = Vec::new();
     add_one_value(add_one_value(&mut v));
