@@ -2,7 +2,7 @@
 // Make me compile only by reordering the existing lines in `main()`,
 // but without adding, changing or removing anything else.
 // `rustlings hint move_semantics9` for hints
-//
+
 fn main() {
     let mut x = "Hello".to_string();
     // handle* variables simulate handles of a detached
